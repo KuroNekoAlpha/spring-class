@@ -1,2 +1,3 @@
 # spring-class
-demo spring projects
+初めてのGitHubの餉餉です。
+そして、これは私のアップデート　です。
